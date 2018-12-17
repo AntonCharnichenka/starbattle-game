@@ -6,10 +6,6 @@ from superwires import games, color
 from models import Asteroid, Ship, AlienShip, random_coords
 
 
-# # initialize game screen
-# games.init(screen_width=1024, screen_height=768, fps=50)
-
-
 class Game:
     """A model of star battle game"""
 
