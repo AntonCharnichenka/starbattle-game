@@ -8,4 +8,4 @@ Description: Survive in hostile space medium full of alien space ships and denge
  - collect gun bonus stars to enhance your weapon;
  - just like in real space your ship is inert, so use contrverse thrust to stop.
 
-Run starbattle.py to run the game.
+Run starbattle.py to start the game.
